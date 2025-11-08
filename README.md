@@ -1,7 +1,7 @@
 # AI 기억 삭제 실패(R2BF)에 대한 인간 중심 협력 프레임워크
 > '잊힘'과 '대체'를 통해 AI 기억 삭제 실패(R2BF)를 해결해요.
 
-<img src="https://github.com/user-attachments/assets/0c1c0458-8862-436a-9c3a-dd5f1196f48b" width="273px" alt="#">
+<img src="https://github.com/user-attachments/assets/34b9be09-ac02-4213-be86-d933d63f5dd5" width="273px" alt="#">
 <img src="https://github.com/user-attachments/assets/30c7d030-7e4f-43e7-b802-296db1eccafe" width="273px" alt="#">
 <img src="https://github.com/user-attachments/assets/5004ba16-6d87-48f0-af79-dae8314521bf" width="273px" alt="#">
 
